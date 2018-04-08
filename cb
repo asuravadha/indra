@@ -1,0 +1,913 @@
+<!DOCTYPE html> <!-- Sabino.ORG -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>CountryBaskets &#8211; Farm fresh is best</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CountryBaskets &raquo; Feed" href="http://countrybaskets.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CountryBaskets &raquo; Comments Feed" href="http://countrybaskets.in/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/countrybaskets.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='esu_style_url-css'  href='http://countrybaskets.in/wp-content/plugins/easy-sign-up/css/esu-styles.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.3.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='customizer_sabino_fonts-css'  href='//fonts.googleapis.com/css?family=Quando%3Aregular|Dosis%3Aregular%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<link rel='stylesheet' id='sabino-font-default-css'  href='//fonts.googleapis.com/css?family=Dosis%3A200%2C300%2C400%2C500%2C600%2C700%2C800%7COpen+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i&#038;ver=1.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sabino-style-css'  href='http://countrybaskets.in/wp-content/themes/sabino/style.css?ver=1.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='sabino-woocommerce-style-css'  href='http://countrybaskets.in/wp-content/themes/sabino/templates/css/woocommerce.css?ver=1.1.10' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcw-css'  href='http://countrybaskets.in/wp-content/plugins/contact-widgets/assets/css/style.min.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='gem-base-css'  href='http://countrybaskets.in/wp-content/plugins/godaddy-email-marketing-sign-up-forms/css/gem.min.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-subscription-css'  href='http://countrybaskets.in/wp-content/plugins/newsletter/subscription/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=3.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://countrybaskets.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://countrybaskets.in/wp-content/uploads/elementor/css/global.css?ver=1522218422' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-396-css'  href='http://countrybaskets.in/wp-content/uploads/elementor/css/post-396.css?ver=1522218422' type='text/css' media='all' />
+<link rel='stylesheet' id='ssatc-styles-css'  href='http://countrybaskets.in/wp-content/plugins/storefront-sticky-add-to-cart/assets/css/style.css?ver=1.1.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://countrybaskets.in/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://countrybaskets.in/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://countrybaskets.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://countrybaskets.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.4" />
+<meta name="generator" content="WooCommerce 3.3.4" />
+<link rel="canonical" href="http://countrybaskets.in/" />
+<link rel='shortlink' href='http://countrybaskets.in/' />
+<link rel="alternate" type="application/json+oembed" href="http://countrybaskets.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcountrybaskets.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://countrybaskets.in/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fcountrybaskets.in%2F&#038;format=xml" />
+
+			<script type='text/javascript'>
+				/* Easy Sign Up Plugin */
+				var esu_err_colors = {'background-color': 'red','color':'white'};
+				var esu_good_colors = {'background-color': '#F5F5DC','color':'#FFD797'};
+				var esu_err_css = {'top':0,'left':0,'right':0,'width':'100%','position':'fixed'};
+				var esu_required_txt = ' Required';
+				var esu_not_valid_txt = ' Not Valid';
+				var esu_show_bar = true;
+			</script>
+				
+				
+				<div style="display: none;">
+				
+					<div id="phoen_login_data"><div class="woocommerce"> 
+						
+					<div class="col-set" id="customer_login">
+						
+						<div class="col" >
+							
+							<div class="result1"></div> 
+							
+								<h2>Login</h2>
+
+								<form method="post" class="login" id="js_login">
+								
+																	
+									<input type="hidden" value="d669d0f4a0" name="_wpnonce_phoe_login_pop_form" id="wpnonce_phoe_login_pop_form" />
+							
+									<p class="form-row form-row-wide">
+										<label for="username">Username or email address <span class="required">*</span></label>
+										<input type="text" class="input-text" name="username" id="username" value="">
+									</p>
+									<p class="form-row form-row-wide">
+										<label for="password">Password <span class="required">*</span></label>
+										<input class="input-text" type="password" name="password" id="password">
+									</p>
+									<p class="form-row">
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="fd684f83cf">
+										<input type="hidden" id="wp_http_referer1" name="_wp_http_referer" value="http://countrybaskets.in/my-account/"><div class="loader1" style="display:none;" ><img src="http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/img/ajax-loader.gif"/></div>				
+										<input type="submit" class="button js_login_log" name="login" value="Login" id="login1">
+										<label for="rememberme" class="inline">
+										<input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember me </label>
+									</p>
+								<p class="lost_password">
+									<a href="http://countrybaskets.in/my-account/lost-password/">Lost your password?</a>
+								</p>
+								<p>
+									<a href="#" class="phoen_signup"> Sign Up</a>
+								</p>
+							</form>
+						</div>
+						
+					</div> 
+					</div>  
+					</div>  <!-- end of login data -->
+					
+					<div id="phoen_signup_data">
+					
+					 <div class="woocommerce">        
+				
+					<div class="col-set" id="customer_login">
+						<div class="col" >
+							<div class="result2"></div>
+							<h2>Register</h2>
+							<form method="post" class="register" id="js_signup" >			
+
+																	
+									<input type="hidden" value="7fd7cf3eb1" name="_wpnonce_phoe_register_pop_form" id="wpnonce_phoe_register_pop_form" />
+												
+								<p class="form-row form-row-wide">
+									<label for="reg_email">Email address <span class="required">*</span></label>
+									<input type="email" class="input-text" name="email" id="reg_email_header" value="" >
+								</p>			
+									<p class="form-row form-row-wide">
+										<label for="reg_password">Password <span class="required">*</span></label>
+										<input type="password" class="input-text" name="password" id="reg_password_header" >
+									</p>			
+								<!-- Spam Trap -->
+								<div style="left: -999em; position: absolute;"><label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1"></div>						
+								<p class="form-row">
+									<input type="hidden" id="_wpnonce" name="_wpnonce" value="70c2c9e9dd"><input id="wp_http_referer" type="hidden" name="_wp_http_referer" value="http://countrybaskets.in/my-account/">				
+									<div class="loader_reg" style="display:none;" ><img src="http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/img/ajax-loader.gif"/></div>				
+									<input type="submit" class="button phoen_reg" name="register_header" value="Register">
+								</p>
+								<p><a href="#" class="phoen_login" >Login</a>
+							</form>
+						</div>
+					
+					</div>
+					</div>
+					</div> <!-- end of signup data -->
+					
+				</div>	
+				
+				
+				<div style="display: none;">
+				
+					<div id="phoen_login_data_val"><div class="woocommerce"> 
+						
+					<div class="col-set" id="customer_login" >
+						
+						<div class="col" >
+							
+							<div class="result1"></div> 
+							
+								<h2>Login</h2>
+
+								<form method="post" class="login" id="js_login">
+								
+																	
+									<input type="hidden" value="d669d0f4a0" name="_wpnonce_phoe_login_pop_form" id="wpnonce_phoe_login_pop_form" />
+							
+									<p class="form-row form-row-wide">
+										<label for="username">Username or email address <span class="required">*</span></label>
+										<input type="text" class="input-text" name="username" id="username" value="">
+									</p>
+									<p class="form-row form-row-wide">
+										<label for="password">Password <span class="required">*</span></label>
+										<input class="input-text" type="password" name="password" id="password">
+									</p>
+									<p class="form-row">
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="fd684f83cf">
+										<input type="hidden" id="wp_http_referer1" name="_wp_http_referer" value="http://countrybaskets.in/my-account/"><div class="loader1" style="display:none;" ><img src="http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/img/ajax-loader.gif"/></div>				
+										<input type="submit" class="button js_login_log" name="login" value="Login" id="login1">
+										<label for="rememberme" class="inline">
+										<input name="rememberme" type="checkbox" id="rememberme" value="forever"> Remember me </label>
+									</p>
+								<p class="lost_password">
+									<a href="http://countrybaskets.in/my-account/lost-password/">Lost your password?</a>
+								</p>
+							</form>
+						</div>
+						
+					</div> 
+					</div>  
+					</div>  <!-- end of login data -->
+				   
+					<div id="phoen_signup_data_val">
+					
+					 <div class="woocommerce">        
+				
+					<div class="col-set" id="customer_login">
+						<div class="col" >
+							<div class="result2"></div>
+							<h2>Register</h2>
+							<form method="post" class="register" id="js_signup" >			
+
+																	
+									<input type="hidden" value="7fd7cf3eb1" name="_wpnonce_phoe_register_pop_form" id="wpnonce_phoe_register_pop_form" />
+												
+								<p class="form-row form-row-wide">
+									<label for="reg_email">Email address <span class="required">*</span></label>
+									<input type="email" class="input-text" name="email" id="reg_email_header" value="" >
+								</p>			
+									<p class="form-row form-row-wide">
+										<label for="reg_password">Password <span class="required">*</span></label>
+										<input type="password" class="input-text" name="password" id="reg_password_header" >
+									</p>			
+								<!-- Spam Trap -->
+								<div style="left: -999em; position: absolute;"><label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1"></div>						
+								<p class="form-row">
+									<input type="hidden" id="_wpnonce" name="_wpnonce" value="70c2c9e9dd"><input id="wp_http_referer" type="hidden" name="_wp_http_referer" value="http://countrybaskets.in/my-account/">				
+									<div class="loader_reg" style="display:none;" ><img src="http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/img/ajax-loader.gif"/></div>				
+									<input type="submit" class="button phoen_reg" name="register_header" value="Register">
+								</p>
+							</form>
+						</div>
+					
+					</div>
+					</div>
+					</div> <!-- end of signup data -->
+				</div>
+				
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("http://countrybaskets.in/wp-content/uploads/2018/01/tumblr_ou9tahYZDV1qlqo4ro1_500-copy.gif"); background-position: left top; background-size: cover; background-repeat: repeat; background-attachment: fixed; }
+</style>
+
+<!-- Begin Custom CSS -->
+<style type="text/css" id="sabino-custom-css">
+body{background-image:url(http://countrybaskets.in/wp-content/themes/sabino/images/demo/sabino-background-image.jpg);}body,
+				.widget-area .widget a,
+				.page-banner-inner h1.entry-title span{font-family:"Quando","Helvetica Neue",sans-serif;}
+</style>
+<!-- End Custom CSS -->
+<link rel="icon" href="http://countrybaskets.in/wp-content/uploads/2018/01/cropped-logo_size_icon-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://countrybaskets.in/wp-content/uploads/2018/01/cropped-logo_size_icon-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://countrybaskets.in/wp-content/uploads/2018/01/cropped-logo_size_icon-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://countrybaskets.in/wp-content/uploads/2018/01/cropped-logo_size_icon-1-270x270.jpg" />
+</head>
+<body class="home page-template-default page page-id-396 custom-background wp-custom-logo elementor-default elementor-page elementor-page-396">
+
+<div id="page" class="hfeed site sabino-no-slider content-layout-joined content-joined-widgets ">
+
+			
+		<header id="masthead" class="site-header site-header-layout-one">
+	
+	<div class="site-container">
+			
+		<div class="site-branding site-branding-img">
+			
+			                <a href="http://countrybaskets.in/" class="custom-logo-link" rel="home" itemprop="url"><img width="280" height="92" src="http://countrybaskets.in/wp-content/uploads/2018/01/cropped-logo_size-1.jpg" class="custom-logo" alt="CountryBaskets" itemprop="logo" /></a>            			
+		</div><!-- .site-branding -->
+		
+		<div class="site-header-right    ">
+			
+			<div class="site-header-right-top">
+							</div>
+			
+			<div class="site-header-right-bottom">
+				
+								
+									<div class="header-cart">
+			            <a class="header-cart-contents" href="http://countrybaskets.in/cart/" title="View your shopping cart">
+			                <span class="header-cart-amount">
+			                    0<span> - <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>0.00</span></span>
+			                </span>
+			                <span class="header-cart-checkout ">
+			                    <i class="fa fa-shopping-cart"></i>
+			                </span>
+			            </a>
+					</div>
+								
+				<div class="site-header-social">
+					<a href="mailto:&#115;&#117;&#112;&#112;o&#114;&#116;&#064;%63&#111;u&#110;&#116;r%79b%61&#115;k&#101;%74&#115;%2ein" title="Send Us an Email" class="header-social-icon social-email"><i class="fa fa-envelope-o"></i></a><a href="https://www.facebook.com/countrybaskets.in/" target="_blank" title="Find Us on Facebook" class="header-social-icon social-facebook"><i class="fa fa-facebook"></i></a>				
+					<div class="menu-search">
+				    	<i class="fa fa-search search-btn"></i>
+				    </div>
+				</div>
+				
+			</div>
+			
+		</div>
+		<div class="clearboth"></div>
+		
+	</div>
+		
+	<nav id="site-navigation" class="main-navigation">
+		
+		<div class="site-container">
+			
+			<span class="header-menu-button"><i class="fa fa-bars"></i><span>menu</span></span>
+			<div id="main-menu" class="main-menu-container">
+				<span class="main-menu-close"><i class="fa fa-angle-right"></i><i class="fa fa-angle-left"></i></span>
+				<div class="menu-primary-menu-container"><ul id="primary-menu" class="menu"><li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://countrybaskets.in/shop/">Shop</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://countrybaskets.in/about/">About Us</a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="http://countrybaskets.in/contact/">Contact Us</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="http://countrybaskets.in/news/">News</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://countrybaskets.in/my-account/">My Account</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-396 current_page_item menu-item-401"><a href="http://countrybaskets.in/">HOME</a></li>
+<li id="menu-item-456" class="phoen-login-signup-popup-open menu-item menu-item-type-custom menu-item-object-custom menu-item-456"><a href="#">signin/signup</a></li>
+</ul></div>			</div>
+			
+		</div>
+		
+	</nav><!-- #site-navigation -->
+	
+	<div class="site-container">
+	    <div class="search-block">
+	        <form role="search" method="get" class="search-form" action="http://countrybaskets.in/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search &amp; hit enter&hellip;" value="" name="s" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	    </div>
+	</div>
+	
+</header><!-- #masthead -->		
+		
+		    
+	        
+    <!-- No Slider -->
+    
+	    
+	
+	<div class="site-container site-container-main content-has-sidebar">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			
+										
+			
+				
+<article id="post-396" class="post-396 page type-page status-publish hentry">
+
+	<div class="entry-content">
+				<div class="elementor elementor-396">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="e68c9c8" class="elementor-element elementor-element-e68c9c8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="044d64f" class="elementor-element elementor-element-044d64f elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="e1e4e51" class="elementor-element elementor-element-e1e4e51 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="900" height="366" src="http://countrybaskets.in/wp-content/uploads/2018/03/white_logo_color_background-1024x416.jpg" class="attachment-large size-large" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/03/white_logo_color_background-1024x416.jpg 1024w, http://countrybaskets.in/wp-content/uploads/2018/03/white_logo_color_background-300x122.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/03/white_logo_color_background-768x312.jpg 768w, http://countrybaskets.in/wp-content/uploads/2018/03/white_logo_color_background-600x244.jpg 600w" sizes="(max-width: 900px) 100vw, 900px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="6eb3966" class="elementor-element elementor-element-6eb3966 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="fb9869c" class="elementor-element elementor-element-fb9869c elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6a94cfb" class="elementor-element elementor-element-6a94cfb elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Join us to sell our products HERE</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="b97f84e" class="elementor-element elementor-element-b97f84e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="780d4f9" class="elementor-element elementor-element-780d4f9 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="982ea85" class="elementor-element elementor-element-982ea85 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="900" height="900" src="http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-1024x1024.png" class="attachment-large size-large" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-1024x1024.png 1024w, http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-150x150.png 150w, http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-300x300.png 300w, http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-768x768.png 768w, http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-180x180.png 180w, http://countrybaskets.in/wp-content/uploads/2018/01/Icariin_Health_Authorized_Retailer_Program-600x600.png 600w" sizes="(max-width: 900px) 100vw, 900px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="0599aa3" class="elementor-element elementor-element-0599aa3 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="501207b" class="elementor-element elementor-element-501207b elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="900" height="583" src="http://countrybaskets.in/wp-content/uploads/2018/01/farmer-in-indonesian-village.jpg" class="attachment-large size-large" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/farmer-in-indonesian-village.jpg 960w, http://countrybaskets.in/wp-content/uploads/2018/01/farmer-in-indonesian-village-300x194.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/01/farmer-in-indonesian-village-768x498.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="e982ea2" class="elementor-element elementor-element-e982ea2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="3433626" class="elementor-element elementor-element-3433626 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7497c8e" class="elementor-element elementor-element-7497c8e elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href=" http://countrybaskets.in/?s=Farmer+login" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">I'm a retailer</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="f201f49" class="elementor-element elementor-element-f201f49 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="6f4573b" class="elementor-element elementor-element-6f4573b elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://countrybaskets.in/?s=Farmer+login" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">I'm a Farmer</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="35c370be" class="elementor-element elementor-element-35c370be elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wide">
+				<div class="elementor-row">
+				<div data-id="79bb973" class="elementor-element elementor-element-79bb973 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="63f031cb" class="elementor-element elementor-element-63f031cb elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">Frequently asked questions</h3>		</div>
+				</div>
+				<div data-id="2b31235e" class="elementor-element elementor-element-2b31235e elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="12190c08" class="elementor-element elementor-element-12190c08 elementor-widget elementor-widget-toggle" data-element_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-3031" class="elementor-tab-title" tabindex="3031" data-tab="1" role="tab" aria-controls="elementor-tab-content-3031">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												What is Workflow Optimization?					</div>
+					<div id="elementor-tab-content-3031" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-3031"><p>It&#8217;s all about how faster and effective our 24*7 team help you in finding out what you want<br />we work to optimize the time to make a delivery or product show with the minimal period</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-3032" class="elementor-tab-title" tabindex="3032" data-tab="2" role="tab" aria-controls="elementor-tab-content-3032">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												How much is your app?					</div>
+					<div id="elementor-tab-content-3032" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-3032"><p>With the specially designed model of work we provide you a effective interface .<br />we make sure the products and information are in our safe hands.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-3033" class="elementor-tab-title" tabindex="3033" data-tab="3" role="tab" aria-controls="elementor-tab-content-3033">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+							<i class="elementor-toggle-icon-closed fa fa-caret-right"></i>
+							<i class="elementor-toggle-icon-opened fa fa-caret-up"></i>
+						</span>
+												Can anyone use the app?					</div>
+					<div id="elementor-tab-content-3033" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-3033"><p>Anyone can use the application its open for all .<br />Getting registered is another process if you are a retailer then you might have to show some enclosures to continue. </p></div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<div data-id="2b9c70a" class="elementor-element elementor-element-2b9c70a elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Workflow Optimization is a cross platform message optimization app for all devices. <a href="#">Contact Us</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="573ca1e2" class="elementor-element elementor-element-573ca1e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="67281d2d" class="elementor-element elementor-element-67281d2d elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7621b9a7" class="elementor-element elementor-element-7621b9a7 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xl"><a href="http://countrybaskets.in/product-category/food/">All fresh food form the hotels surrounding you</a></h1>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="354ce1a6" class="elementor-element elementor-element-354ce1a6 elementor-sm-100 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="185d6510" class="elementor-element elementor-element-185d6510 gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-element_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			<div id='gallery-1' class='gallery galleryid-396 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="185d6510" href='http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte.jpg'><img width="150" height="150" src="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-150x150.jpg 150w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-180x180.jpg 180w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-300x300.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-600x600.jpg 600w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="185d6510" href='http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee.jpg'><img width="150" height="150" src="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-150x150.jpg 150w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-300x300.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-768x768.jpg 768w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-1024x1024.jpg 1024w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-180x180.jpg 180w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee-600x600.jpg 600w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_homemade-waffles-with-coffee.jpg 1053w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="185d6510" href='http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15.jpg'><img width="150" height="150" src="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15-150x150.jpg 150w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15-180x180.jpg 180w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15-300x300.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/01/foodiesfeed.com_Wedding_15-600x600.jpg 600w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+			</div></figure>
+		</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="5c870028" class="elementor-element elementor-element-5c870028 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="1e0089b0" class="elementor-element elementor-element-1e0089b0 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section data-id="39e219a3" class="elementor-element elementor-element-39e219a3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="848a405" class="elementor-element elementor-element-848a405 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5d3f9e88" class="elementor-element elementor-element-5d3f9e88 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large"><a href="http://countrybaskets.in/product-category/vegetables/">Vegetables</a></h3>		</div>
+				</div>
+				<div data-id="7774b28e" class="elementor-element elementor-element-7774b28e elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="a7c086" class="elementor-element elementor-element-a7c086 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>A freshly farmed vegetables from the lands of the kuppam surroundings</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="6ad47301" class="elementor-element elementor-element-6ad47301 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="ed0bfa3" class="elementor-element elementor-element-ed0bfa3 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="900" height="563" src="http://countrybaskets.in/wp-content/uploads/2018/01/qewrtyuilokp-1024x640.jpg" class="attachment-large size-large" alt="" srcset="http://countrybaskets.in/wp-content/uploads/2018/01/qewrtyuilokp-1024x640.jpg 1024w, http://countrybaskets.in/wp-content/uploads/2018/01/qewrtyuilokp-300x188.jpg 300w, http://countrybaskets.in/wp-content/uploads/2018/01/qewrtyuilokp-768x480.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="46c0eb72" class="elementor-element elementor-element-46c0eb72 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-reverse-mobile elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="616077a6" class="elementor-element elementor-element-616077a6 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5174aa81" class="elementor-element elementor-element-5174aa81 elementor-widget elementor-widget-image-carousel" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-element_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-image-carousel slick-arrows-inside slick-dots-inside">
+				<div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0100-nkv5egb86i0gd55hji91nyziz4in1ufqii4xl7hxso.jpg" alt="Saree" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0094-nkv5dtr3mh5kmi2978i004ogpvltx3y6feha2kfdy0.jpg" alt="Saree" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0093-nkv5dhj75moufkk06l7ulprgzva251lo1pzytyxi6w.jpg" alt="saree" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0087-nkv5ckmuifft57vsiozwog2c7ds7nmz2975z1aaa8o.jpg" alt="saree" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0091-nkv5cxsl63xtnrcoduooncqsirzcnefaz0arr5qrtk.jpg" alt="saree" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0079-nkv5c1u2pqq2p0n3kgvdakt4bocvdowfim49fr25p4.jpg" alt="shorts" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0064-nkv59txsktopa5v5j0c2wmyxtxao7f38vmnzn8cme0.jpg" alt="cindrella gown" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/IMG-20180124-WA0059-nkv583wg1rbrzwd9l9ipc2mimhsg3e8yn3lxyywlso.jpg" alt="top" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/1-1-nks0xvsjljtpwtxcchnh4m48v3eje7w7vxy1yacpy0.jpg" alt="img" /></figure></div>			</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="219c3550" class="elementor-element elementor-element-219c3550 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5ce87093" class="elementor-element elementor-element-5ce87093 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large"><a href="http://countrybaskets.in/product-category/clothing/">Clothes </a></h3>		</div>
+				</div>
+				<div data-id="4c7c404b" class="elementor-element elementor-element-4c7c404b elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Specially designed clothes in the shops near your surroundings</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="6bffa18" class="elementor-element elementor-element-6bffa18 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="65987f0b" class="elementor-element elementor-element-65987f0b elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3aaec842" class="elementor-element elementor-element-3aaec842 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large"><a href="http://countrybaskets.in/product-category/food/">Our Sweets Collection</a></h2>		</div>
+				</div>
+				<div data-id="4d6cd1ae" class="elementor-element elementor-element-4d6cd1ae elementor-widget elementor-widget-image-carousel" data-settings="{&quot;slides_to_show&quot;:&quot;3&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;slides_to_scroll&quot;:&quot;2&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;direction&quot;:&quot;ltr&quot;}" data-element_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-image-carousel slick-arrows-outside">
+				<div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/foodiesfeed.com_homemade-waffles-with-coffee-nks13e4gsw7djzt2hhkgn7dn8y8bolbvav36owxm10.jpg" alt="foodiesfeed.com_homemade-waffles-with-coffee.jpg" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-nks13d6mm2638dufmz5u2pm6nkcygw84yqfp7mz078.jpg" alt="foodiesfeed.com_traditional-czech-honey-cake-caffee-latte.jpg" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/foodiesfeed.com_homemade-pizza-nks13g056k9y77qc6idps6wkfpz23zjbz4e5ngutok.jpg" alt="foodiesfeed.com_homemade-pizza.jpg" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/foodiesfeed.com_Wedding_15-nks13gxzdeb8itoz10sccoo113ufbon2b91n4qtfic.jpg" alt="foodiesfeed.com_Wedding_15.jpg" /></figure></div><div class="slick-slide"><figure class="slick-slide-inner"><img class="slick-slide-image" src="http://countrybaskets.in/wp-content/uploads/elementor/thumbs/foodiesfeed.com_Your-Sunny-Side-Up-2-nks13c8sf84swrvssgr7i7uq26hl974emls7qd0edg.jpg" alt="foodiesfeed.com_Your-Sunny-Side-Up-2.jpg" /></figure></div>			</div>
+		</div>
+				</div>
+				</div>
+				<div data-id="27a1aaa6" class="elementor-element elementor-element-27a1aaa6 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>The best way to experience our wide collection of sweets is to visit the store. Follow the aromas and choose the most enticing sweets to satisfy your palate.</p></div>
+				</div>
+				</div>
+				<div data-id="502fe691" class="elementor-element elementor-element-502fe691 elementor-widget elementor-widget-spacer" data-element_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div data-id="1aace0de" class="elementor-element elementor-element-1aace0de elementor-align-center elementor-widget elementor-widget-button" data-element_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#http://countrybaskets.in/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">More Sweets</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="308dd614" class="elementor-element elementor-element-308dd614 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-middle elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5b9919de" class="elementor-element elementor-element-5b9919de elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="30d8e8f1" class="elementor-element elementor-element-30d8e8f1 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Visit Us</h2>		</div>
+				</div>
+				<div data-id="4467e5f0" class="elementor-element elementor-element-4467e5f0 elementor-widget elementor-widget-divider" data-element_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator"></span>
+		</div>
+				</div>
+				</div>
+				<div data-id="2b01a28b" class="elementor-element elementor-element-2b01a28b elementor-widget elementor-widget-icon-list" data-element_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-map-marker" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">kuppam engineering college</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-envelope-square" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">support@countrybaskets.in</span>
+									</li>
+								<li class="elementor-icon-list-item" >
+											<span class="elementor-icon-list-icon">
+							<i class="fa fa-phone-square" aria-hidden="true"></i>
+						</span>
+										<span class="elementor-icon-list-text">8197221596</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="74250291" class="elementor-element elementor-element-74250291 elementor-column elementor-col-50 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="25f0796b" class="elementor-element elementor-element-25f0796b elementor-widget elementor-widget-google_maps" data-element_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Kuppam%20%2C%20Andhra%20pradesh&amp;t=m&amp;z=12&amp;output=embed&amp;iwloc=near" aria-label="Kuppam , Andhra pradesh"></iframe></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+					</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="woocommerce_top_rated_products-2" class="widget woocommerce widget_top_rated_products"><h4 class="widget-title">Most Popular</h4><ul class="product_list_widget"><li>
+	
+	<a href="http://countrybaskets.in/product/cabbage/">
+		<img width="300" height="135" src="//countrybaskets.in/wp-content/uploads/2018/01/images-11.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//countrybaskets.in/wp-content/uploads/2018/01/images-11.jpeg 335w, //countrybaskets.in/wp-content/uploads/2018/01/images-11-300x135.jpeg 300w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">Cabbage</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>35.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>34.00</span></ins>
+	</li>
+<li>
+	
+	<a href="http://countrybaskets.in/product/white-fashion-wear-for-kids/">
+		<img width="300" height="300" src="//countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066.jpg 640w, //countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066-150x150.jpg 150w, //countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066-300x300.jpg 300w, //countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066-180x180.jpg 180w, //countrybaskets.in/wp-content/uploads/2018/01/IMG-20180124-WA0066-600x600.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />		<span class="product-title">White Fashion wear for kids</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>699.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>499.00</span></ins>
+	</li>
+<li>
+	
+	<a href="http://countrybaskets.in/product/onions/">
+		<img width="224" height="224" src="//countrybaskets.in/wp-content/uploads/2018/01/download.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail wp-post-image" alt="" srcset="//countrybaskets.in/wp-content/uploads/2018/01/download.jpeg 224w, //countrybaskets.in/wp-content/uploads/2018/01/download-150x150.jpeg 150w, //countrybaskets.in/wp-content/uploads/2018/01/download-180x180.jpeg 180w" sizes="(max-width: 224px) 100vw, 224px" />		<span class="product-title">Onions</span>
+	</a>
+
+				
+	<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>50.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#8377;</span>45.00</span></ins>
+	</li>
+</ul></aside><aside id="woocommerce_product_categories-2" class="widget woocommerce widget_product_categories"><h4 class="widget-title">Categories</h4><ul class="product-categories"><li class="cat-item cat-item-9 cat-parent"><a href="http://countrybaskets.in/product-category/clothing/">Clothing</a><ul class='children'>
+<li class="cat-item cat-item-29 cat-parent"><a href="http://countrybaskets.in/product-category/clothing/kids-wear/">Kids wear</a>	<ul class='children'>
+<li class="cat-item cat-item-31"><a href="http://countrybaskets.in/product-category/clothing/kids-wear/kids-fashion-wear/">Kids fashion Wear</a></li>
+	</ul>
+</li>
+<li class="cat-item cat-item-27 cat-parent"><a href="http://countrybaskets.in/product-category/clothing/mens-wear/">Men's wear</a>	<ul class='children'>
+<li class="cat-item cat-item-28"><a href="http://countrybaskets.in/product-category/clothing/mens-wear/mens-shirts/">Mens Shirts</a></li>
+<li class="cat-item cat-item-33"><a href="http://countrybaskets.in/product-category/clothing/mens-wear/mens-shorts/">Mens Shorts</a></li>
+	</ul>
+</li>
+<li class="cat-item cat-item-14"><a href="http://countrybaskets.in/product-category/clothing/t-shirts/">T-shirts</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-35"><a href="http://countrybaskets.in/product-category/food/">FOOD</a></li>
+<li class="cat-item cat-item-37"><a href="http://countrybaskets.in/product-category/uncategorized/">Uncategorized</a></li>
+<li class="cat-item cat-item-30"><a href="http://countrybaskets.in/product-category/vegetables/">Vegetables</a></li>
+</ul></aside></div><!-- #secondary -->
+	
+		<div class="clearboth"></div>
+	</div><!-- #content -->
+	
+			
+		<footer class="site-footer">
+	
+	<div class="site-footer-icons">
+        <div class="site-container">
+            
+            <a href="mailto:%73%75%70%70%6fr&#116;&#064;%63ou&#110;t&#114;yb&#097;&#115;&#107;e&#116;s&#046;i&#110;" title="Send Us an Email" class="footer-social-icon footer-social-email"><i class="fa fa-envelope-o"></i></a><a href="https://www.facebook.com/countrybaskets.in/" target="_blank" title="Find Us on Facebook" class="footer-social-icon footer-social-facebook"><i class="fa fa-facebook"></i></a>			
+        	<div class="site-footer-ad">
+        		<i class="fa fa-map-marker"></i> Kuppam , AP        	</div>
+        	
+        	<div class="site-footer-copy">
+            	Theme: <a href="https://demo.kairaweb.com/#sabino">Sabino</a> by Kaira            </div>
+            
+            <div class="clearboth"></div>
+        </div>
+    </div>
+    
+    <div class="site-footer-bottom-bar">
+
+		<div class="site-container">
+			
+	        <div class="menu"><ul>
+<li class="page_item page-item-2"><a href="http://countrybaskets.in/about/">About Us</a></li>
+<li class="page_item page-item-6"><a href="http://countrybaskets.in/cart/">Cart</a></li>
+<li class="page_item page-item-7"><a href="http://countrybaskets.in/checkout/">Checkout</a></li>
+<li class="page_item page-item-111"><a href="http://countrybaskets.in/contact/">Contact Us</a></li>
+<li class="page_item page-item-512"><a href="http://countrybaskets.in/events/">events</a></li>
+<li class="page_item page-item-443"><a href="http://countrybaskets.in/farmer_login/">Farmer_login</a></li>
+<li class="page_item page-item-396 current_page_item"><a href="http://countrybaskets.in/">HOME</a></li>
+<li class="page_item page-item-8"><a href="http://countrybaskets.in/my-account/">My Account</a></li>
+<li class="page_item page-item-106"><a href="http://countrybaskets.in/news/">News</a></li>
+<li class="page_item page-item-457"><a href="http://countrybaskets.in/newsletter/">Newsletter</a></li>
+<li class="page_item page-item-5"><a href="http://countrybaskets.in/shop/">Shop</a></li>
+</ul></div>
+	            
+	    </div>
+		
+	    <div class="clearboth"></div>
+	</div>
+    
+</footer>
+	    
+		
+</div><!-- #page -->
+
+<link rel='stylesheet' id='style-colorbox-css'  href='http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/css/colorbox.css?ver=4.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COvo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CShadows+Into+Light%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=4.9.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/easy-sign-up/js/esu-validate.js?ver=3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/countrybaskets.in\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_06e37456fd896e8baa41a847d65109cc","fragment_name":"wc_fragments_06e37456fd896e8baa41a847d65109cc"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/themes/sabino/js/caroufredsel/jquery.carouFredSel-6.2.1-packed.js?ver=1.1.10'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/themes/sabino/js/custom.js?ver=1.1.10'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/themes/sabino/js/skip-link-focus-fix.js?ver=1.1.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GEM = {"thankyou":"Thank you for signing up!","thankyou_suppressed":"Thank you for signing up! Please check your email to confirm your subscription.","oops":"Oops! There was a problem. Please try again.","email":"Please enter a valid email address.","required":"%s is a required field."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/godaddy-email-marketing-sign-up-forms/js/gem.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/newsletter/subscription/validate.js?ver=5.3.2'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-includes/js/wp-embed.min.js?ver=4.9.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_log_ajaxurl = {"ajaxurl":"http:\/\/countrybaskets.in\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/js/custom.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/woocommerce-login-and-registration/assets/js/jquery.colorbox.js?ver=4.9.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=3.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","urls":{"assets":"http:\/\/countrybaskets.in\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":396,"title":"HOME","excerpt":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://countrybaskets.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.0.1'></script>
+</body>
+</html>
